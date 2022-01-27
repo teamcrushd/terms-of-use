@@ -1,0 +1,23 @@
+html{
+  margin: 10px 10px 10px 10px;
+  background-color: #040c13;
+  font-family: 'Montserrat', sans-serif;
+  font: 'montserrat', sans-serif;
+  color: #fff;
+}
+li{
+ font-weight: 500; 
+}
+p{
+  font-size: 17px;
+  font-weight: 500;
+
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+h1{
+  align-items: center;
+  color: aliceblue;
+}
